@@ -121,7 +121,7 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 
 Thanks to [JetBrains](https://www.jetbrains.com) for supporting us with a [free Open Source License](https://www.jetbrains.com/buy/opensource).
 
-# documentation
+# document
 # Readme
 
 Basic writing and formatting syntax
