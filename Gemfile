@@ -5,4 +5,5 @@ source "https://rubygems.org"
 #gem "minima", "~> 2.0"
 #gem "jekyll-theme-cayman"
 #gem "jekyll-theme-dinky", '~> 0.2.0"
-gem "github-pages", group: :jekyll_plugins
+#gem "github-pages", group: :jekyll_plugins
+gem 'jekyll-theme-architect', '~> 0.2.0'
