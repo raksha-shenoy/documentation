@@ -1,6 +1,7 @@
 source "https://rubygems.org"
-gemspec
+#gemspec
 
 #gem "webrick", "~> 1.7"
 #gem "minima", "~> 2.0"
-gem "jekyll-theme-cayman"
+#gem "jekyll-theme-cayman"
+gem "jekyll-theme-dinky", '~> 0.2.0"
